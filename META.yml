@@ -14,7 +14,7 @@ license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
   version: '1.4'
-name: Data-Validate-CAA
+name: Data-Validate-DNS-CAA
 requires:
   Data::Validate::Email: '0'
   Data::Validate::URI: '0'
@@ -26,8 +26,8 @@ requires:
   strict: '0'
   warnings: '0'
 resources:
-  bugtracker: http://rt.cpan.org/Public/Dist/Display.html?Name=Data-Validate-CAA
-  homepage: http://search.cpan.org/dist/Data-Validate-CAA/
+  bugtracker: http://rt.cpan.org/Public/Dist/Display.html?Name=Data-Validate-DNS-CAA
+  homepage: http://search.cpan.org/dist/Data-Validate-DNS-CAA/
   repository: git://github.com/mschout/perl-data-validate-dns-caa.git
-version: '0.01'
+version: '0.02'
 x_serialization_backend: 'YAML::Tiny version 1.69'

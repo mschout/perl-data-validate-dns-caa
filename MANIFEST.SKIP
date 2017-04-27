@@ -66,8 +66,9 @@
 #!end included /Users/mschout/perl5/perlbrew/perls/perl-5.24.0/lib/5.24.0/ExtUtils/MANIFEST.SKIP
 
 
-^Data-Validate-CAA
+^Data-Validate-DNS-CAA
 ^\.git$
 ^\.build$
 ^\.travis.yml$
 ^\dist.ini$
+^releases$

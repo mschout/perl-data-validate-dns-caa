@@ -12,10 +12,10 @@ my %WriteMakefileArgs = (
   "CONFIGURE_REQUIRES" => {
     "ExtUtils::MakeMaker" => 0
   },
-  "DISTNAME" => "Data-Validate-CAA",
+  "DISTNAME" => "Data-Validate-DNS-CAA",
   "LICENSE" => "perl",
   "MIN_PERL_VERSION" => "5.010",
-  "NAME" => "Data::Validate::CAA",
+  "NAME" => "Data::Validate::DNS::CAA",
   "PREREQ_PM" => {
     "Data::Validate::Email" => 0,
     "Data::Validate::URI" => 0,
@@ -31,7 +31,7 @@ my %WriteMakefileArgs = (
     "Test::More" => 0,
     "Test::Signature" => 0
   },
-  "VERSION" => "0.01",
+  "VERSION" => "0.02",
   "test" => {
     "TESTS" => "t/*.t"
   }

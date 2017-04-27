@@ -1,5 +1,5 @@
 package Data::Validate::DNS::CAA;
-$Data::Validate::DNS::CAA::VERSION = '0.01';
+$Data::Validate::DNS::CAA::VERSION = '0.02';
 # ABSTRACT: Validate DNS Certification Authority Authorization (CAA) values
 
 use 5.010;
@@ -145,7 +145,7 @@ Data::Validate::DNS::CAA - Validate DNS Certification Authority Authorization (C
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 SYNOPSIS
 
@@ -245,8 +245,8 @@ and may be cloned from L<git://github.com/mschout/perl-data-validate-dns-caa.git
 
 =head1 BUGS
 
-Please report any bugs or feature requests to bug-data-validate-caa@rt.cpan.org or through the web interface at:
- http://rt.cpan.org/Public/Dist/Display.html?Name=Data-Validate-CAA
+Please report any bugs or feature requests to bug-data-validate-dns-caa@rt.cpan.org or through the web interface at:
+ http://rt.cpan.org/Public/Dist/Display.html?Name=Data-Validate-DNS-CAA
 
 =head1 AUTHOR
 

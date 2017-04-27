@@ -12,7 +12,7 @@
       "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
       "version" : 2
    },
-   "name" : "Data-Validate-CAA",
+   "name" : "Data-Validate-DNS-CAA",
    "prereqs" : {
       "configure" : {
          "requires" : {
@@ -50,17 +50,17 @@
    "release_status" : "stable",
    "resources" : {
       "bugtracker" : {
-         "mailto" : "bug-data-validate-caa at rt.cpan.org",
-         "web" : "http://rt.cpan.org/Public/Dist/Display.html?Name=Data-Validate-CAA"
+         "mailto" : "bug-data-validate-dns-caa at rt.cpan.org",
+         "web" : "http://rt.cpan.org/Public/Dist/Display.html?Name=Data-Validate-DNS-CAA"
       },
-      "homepage" : "http://search.cpan.org/dist/Data-Validate-CAA/",
+      "homepage" : "http://search.cpan.org/dist/Data-Validate-DNS-CAA/",
       "repository" : {
          "type" : "git",
          "url" : "git://github.com/mschout/perl-data-validate-dns-caa.git",
          "web" : "https://github.com/mschout/perl-data-validate-dns-caa"
       }
    },
-   "version" : "0.01",
+   "version" : "0.02",
    "x_serialization_backend" : "Cpanel::JSON::XS version 3.0217"
 }
 

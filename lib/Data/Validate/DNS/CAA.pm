@@ -1,6 +1,6 @@
 package Data::Validate::DNS::CAA;
 
-# ABSTRACT: Validate DNS CAA Values
+# ABSTRACT: Validate DNS Certification Authority Authorization (CAA) values
 
 use 5.010;
 use strict;

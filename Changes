@@ -1,6 +1,8 @@
 Revision history for Data-Validate-CAA
 
 {{$NEXT}}
+
+0.04  2017-05-19
     - Fix broken signature test in 0.03
 
 0.03  2017-05-19

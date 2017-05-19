@@ -1,6 +1,7 @@
 Revision history for Data-Validate-CAA
 
 {{$NEXT}}
+    - Fix broken signature test in 0.03
 
 0.03  2017-05-19
     - Skip signature test unless in RELASE or AUTHOR testing mode

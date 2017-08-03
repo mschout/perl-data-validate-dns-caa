@@ -1,6 +1,8 @@
 Revision history for Data-Validate-CAA
 
 {{$NEXT}}
+    - make signature test an AUTHOR test and fail gracefully if Test::Signature
+      is not present
 
 0.04  2017-05-19
     - Fix broken signature test in 0.03
